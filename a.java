@@ -22,3 +22,7 @@ content from local repo
 
 
 code change in same file from local repo
+few new line to resolve the conflist
+
+code changes in the same file from remote repo
+
